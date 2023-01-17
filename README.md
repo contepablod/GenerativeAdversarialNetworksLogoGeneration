@@ -1,5 +1,7 @@
 # GenerativeAdversarialNetworksLogoGeneration
+## Colegio Bourbaki
 Logo Generation by GAN's
+https://data.vision.ee.ethz.ch/sagea/lld/#paper
 
 Exercise of Logo Synthesis by GAN's based on arXiv:1712.04407v1
 
